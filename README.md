@@ -38,7 +38,7 @@ I did stray away from using hashlib, as my original; proposal said. I instead us
 
 
 ### Credit where credit is due:
-I did base a small snippet of code from stack overflow.
+I did base a small snippet of code off of something from stack overflow.
 
 To find the modular multipative inverse, I had use my own fabricated code:
 
