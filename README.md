@@ -4,9 +4,9 @@ Final project for CS161
 This project allows you to encrypt and decrypt .txt files.
 As I didn't have a way to generate large primes effiecently with a mobile version of this program, I used SageMath to create a file of random primes.
 
-Disclaimer: As the ciphertext cannot excede the n veriable (two primes p * q), there is a chance at destroying a long enough file (It does makes a copy rather than encrypting the actual working file, just to be safe). Though this will work fine with small files like my test_file.txt. 
+Disclaimer: As the ciphertext cannot excede the n variable (two primes: p * q), there is a chance at destroying a long enough file (It does makes a copy rather than encrypting the actual working file, just to be safe). Though this will work fine with small files like my test_file.txt. 
 
-Instructions:
+# Instructions:
 
 Verify you are in project directory
 
